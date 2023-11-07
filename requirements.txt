@@ -1,10 +1,7 @@
 nltk==3.8.1
 numpy==1.24.3
 opendatasets==0.1.22
-pandas==2.0.3
-pydot==1.4.2
 transformers==4.31.0
 IPython==8.14.0
 jupyter_client==8.3.0
 jupyter_core==5.3.1
-perspectives==1.0.8
